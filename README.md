@@ -8,14 +8,14 @@
 
 1. **Клонировать проект**
 ```
-git clone <url-репозитория>
-cd saucedemo-tests
+git clone https://github.com/Igho-S/Effective-Mobile-Junior-AQA_Python-test.git
+cd Effective-Mobile-Junior-AQA_Python-test
 ```
 
 2. **Создать виртуальное окружение**
 ```
 python -m venv venv
-.\venv\Scripts\activate  # Windows
+.\venv\Scripts\activate
 ```
 
 3. **Установить зависимости**
