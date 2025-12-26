@@ -42,7 +42,7 @@ docker run --rm -v ${PWD}/allure-results:/app/allure-results saucedemo-tests
 allure serve allure-results
 ```
 
-## Test Scenarios
+## Тестовые сценарии
 
 1. Успешный логин (standard_user)
 2. Логин с неверным паролем
